@@ -43,4 +43,29 @@ void main(int argc, char **argv)
 
 [wellrestedsloth.github.io/testing](https://wellrestedsloth.github.io/testing)
 
+**The Cauchy-Schwarz Inequality**
+
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+**Quadratic Formula**
+
+$$\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
+**Some Newton's force equation**
+
+$$F = G \left( \frac{m_1 m_2}{r^2} \right)$$
+
+**Multi-line Series**
+
+$$y  = 1 + \left(  \frac{1}{x} + \frac{1}{x^2} + \frac{1}{x^3} + \ldots \right. \\
+   \left. \quad + \frac{1}{x^{n-1}} + \frac{1}{x^n} \right)$$
+
+$$a^2 + b^2 = c^2$$
+
+$$X + \frac{1}{X}$$
+
+$$\sqrt{3x-1}+(1+x)^2$$
+
+
+
 Done!!
