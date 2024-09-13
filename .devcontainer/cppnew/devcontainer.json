@@ -2,7 +2,8 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/cpp
 {
 	"image": "mcr.microsoft.com/devcontainers/cpp:1-ubuntu-24.04",
-	"postCreateCommand": "gcc -v"
+	"postCreateCommand": "gcc -v",
+	"name": "a new c++ codespace"
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
